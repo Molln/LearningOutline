@@ -65,4 +65,7 @@
   * ActiveMQ
   * Mycat
 * Java Project Practice（项目实战）
+  * 众筹项目
+  * 在线教育
+  * 大型电商
 * 面试题
