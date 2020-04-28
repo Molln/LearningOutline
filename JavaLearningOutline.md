@@ -1,4 +1,4 @@
-# Java Learning Outline
+# Java Learning Outline（Java 学习大纲）
 * Java 基础
   * Java SE
   * MySQL
