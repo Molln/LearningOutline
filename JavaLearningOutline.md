@@ -34,4 +34,35 @@
   * MVC
   * 案例：书城
 * Java EE
-* Java Project Practice
+  * Struct2
+  * Hibernate
+  * Spring
+  * SSH 整合 & 案例
+  * Spring MVC
+  * JPA
+  * Spring 注解
+  * Spring Data
+  * SSSP 整合 & 分页
+  * Shiro
+  * RBAC
+  * Mybatis
+  * Mybatis Plus
+  * 通用 Mapper
+  * SSM 整合
+  * SVN
+  * Git & GitHub & Gitee
+  * Maven
+  * Spring Boot
+  * Spring Cloud
+  * Jenkins
+  * Docker
+  * Dubbo
+  * Nginx
+  * JVM
+  * Netty
+  * Redis
+  * MySQL 高级
+  * ActiveMQ
+  * Mycat
+* Java Project Practice（项目实战）
+* 面试题
